@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jtdizzle/React-app/static/css/main.9733ea8e.chunk.css",
+    "main.js": "/jtdizzle/React-app/static/js/main.c6d654b5.chunk.js",
+    "main.js.map": "/jtdizzle/React-app/static/js/main.c6d654b5.chunk.js.map",
+    "runtime-main.js": "/jtdizzle/React-app/static/js/runtime-main.99ee69fa.js",
+    "runtime-main.js.map": "/jtdizzle/React-app/static/js/runtime-main.99ee69fa.js.map",
+    "static/js/2.c3c62bb5.chunk.js": "/jtdizzle/React-app/static/js/2.c3c62bb5.chunk.js",
+    "static/js/2.c3c62bb5.chunk.js.map": "/jtdizzle/React-app/static/js/2.c3c62bb5.chunk.js.map",
+    "index.html": "/jtdizzle/React-app/index.html",
+    "static/css/main.9733ea8e.chunk.css.map": "/jtdizzle/React-app/static/css/main.9733ea8e.chunk.css.map",
+    "static/js/2.c3c62bb5.chunk.js.LICENSE.txt": "/jtdizzle/React-app/static/js/2.c3c62bb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99ee69fa.js",
+    "static/js/2.c3c62bb5.chunk.js",
+    "static/css/main.9733ea8e.chunk.css",
+    "static/js/main.c6d654b5.chunk.js"
+  ]
+}
